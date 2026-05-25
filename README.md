@@ -52,8 +52,4 @@ xdg-open reports/scan_report.html
 
 This tool is designed only for local security testing and learning. Use it only against systems you own or are authorized to test. Do not scan external or unauthorized websites.
 
-## Notes for your portfolio
 
-- The scanner is intentionally limited to `localhost` targets for safety.
-- It uses only Python standard libraries plus `requests` and `beautifulsoup4`.
-- The HTML report summarizes each vulnerability and provides remediation guidance.
